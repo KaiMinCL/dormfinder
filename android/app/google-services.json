@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667956312040",
+    "project_id": "dormfinder-56c29",
+    "storage_bucket": "dormfinder-56c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667956312040:android:bd55414184ad643a4c565d",
+        "android_client_info": {
+          "package_name": "com.example.dormfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJT6Q7UkiBpDHFFzhQeITfv4ACxsTIvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
